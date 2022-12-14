@@ -30,6 +30,12 @@
 接口文档：[QQ音乐 NodeJS 版 API](https://github.com/jsososo/QQMusicApi)
 
 
+# 4.咪咕音乐
+
+端口：3400
+
+接口文档：[咪咕音乐 NodeJS 版 API](https://jsososo.github.io/MiguMusicApi/#/)
+
 
 
 
